@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Gaje Vinay Patel
 
-<!--
-**Gajevinay/Gajevinay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+I am a passionate Computer Science student at Anurag University with an interest in Software Development, IoT, Android Development, and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+
+- Java
+- Python
+- C
+- Android Development
+- ESP32
+- Firebase
+- Git & GitHub
+
+## 🚀 Projects
+
+### 🪖 Smart Helmet
+IoT-based Smart Helmet for rider safety using ESP32, Android, GPS, accident detection, and emergency alerts.
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/Gajevinay
+- LinkedIn: *(Add your LinkedIn profile URL here)*
+
+---
+⭐ Always learning new technologies and building real-world projects.
