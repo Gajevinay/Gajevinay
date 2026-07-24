@@ -1,4 +1,8 @@
-# Hi 👋, I'm Gaje Vinay Patel
+<h1 align="center">Hi 👋, I'm Gaje Vinay Patel</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Java+%7C+Python+%7C+Android+Developer;IoT+%26+ESP32+Enthusiast;Open+to+Software+Engineering+Opportunities;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
 ## 🚀 Computer Science Engineering Student
 
